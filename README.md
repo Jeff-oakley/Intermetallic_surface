@@ -4,7 +4,7 @@ In our work of [Charting the Electronic Structure for Discovering Intermetallic 
 intermetallic surface generated from a pool of 2,358 binary and tenary intermetallic hosted in [Materials Project](https://next-gen.materialsproject.org/)
 
 ## Interactive database
-The database is available interactively at [this Link](https://jeff-oakley.github.io/Intermetallic_surface/htmls/IntermallicHeatmap.html). For any inquiry of 
+The database is available interactively at [this link](https://jeff-oakley.github.io/Intermetallic_surface/htmls/IntermallicHeatmap.html). For any inquiry of 
 the raw data, feel free to email Prof. Bin Ouyang at [bouyang@fsu.edu](mailto:bouyang@fsu.edu)
 
 ## Usage of the Interactive database
