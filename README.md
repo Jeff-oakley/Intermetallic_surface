@@ -8,10 +8,10 @@ The database is available interactively at [this link](https://jeff-oakley.githu
 the raw data, feel free to email Prof. Bin Ouyang at [bouyang@fsu.edu](mailto:bouyang@fsu.edu)
 
 ## Usage of the Interactive database
-* `Heatmap of intermetallic heatmap` \
+### 1. Heatmap of intermetallic design space
 The index page of the [Database Website](https://jeff-oakley.github.io/Intermetallic_surface/htmls/IntermallicHeatmap.html) \
 ![image](IndexPageDatabase.png)
-* `Chart of electronic structures` \
+### 2. Chart of electronic structures
 By clicking any elemental pair that you are interested in. It will direct you into the corresponding data page of specific
 metal pair. The example of all data for Co-Fe bimetallic systems are shown below
 ![image](FeCo.png)
